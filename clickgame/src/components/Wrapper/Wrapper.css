@@ -1,0 +1,14 @@
+
+.wrapper {
+    padding-top: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    text-align: center;
+    justify-content: space-around;
+    color: rgb(194, 13, 13);
+    align-content: flex-start;
+    overflow: auto;
+    background-image: url("https://strangerthingsintrocreator.kassellabs.io/c9566bf08c5703c8276c3675110c71b6.jpg");
+}

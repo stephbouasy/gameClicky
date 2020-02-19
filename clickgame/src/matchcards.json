@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/barbara.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/dustin.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/eleven.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/hopper.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/jonathan.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/joyce.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/luke.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/mike.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/nancy.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/robin.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/steve.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/will.jpg",
+    "clicked": false
+}
+]

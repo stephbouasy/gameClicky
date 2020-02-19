@@ -1,0 +1,20 @@
+
+.card>.img-container {
+    overflow: hidden;
+    text-align: center;
+    background: transparent;
+    justify-content: center;  
+    margin: 20px;   
+}
+
+.card>.img-container>img {
+    width: 150px;   
+}
+
+.card {
+    background: transparent;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px, 0 3px 6px;
+    text-align: left;
+    justify-content: center;
+}

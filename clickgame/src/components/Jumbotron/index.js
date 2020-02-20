@@ -2,4 +2,4 @@
 export {
     default
 }
-from "./Title";
+from "./Jumbotron";

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Matched from "./components/Matched";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+import Jumbotron from "./components/Jumbotron";
 import matches from "./matched.json";
 import "./App.css";
 
@@ -60,7 +60,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Clickity Clack Stranger Things Game</Title>
+                <Jumbotron>Clicky Game Stranger Things </Jumbotron>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
